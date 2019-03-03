@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/hp/Documents/Color-Switch/Content/ball.png</File>
+    <File>C:/Users/hp/Documents/Color-Switch/Content/multicolor.png</File>
+    <File>C:/Users/hp/Documents/Color-Switch/Content/Score.spritefont</File>
+    <File>C:/Users/hp/Documents/Color-Switch/Content/star.png</File>
+    <File>C:/Users/hp/Documents/Color-Switch/Content/obstacleCircle.png</File>
+    <File>C:/Users/hp/Documents/Color-Switch/Content/obstacleLine.png</File>
+    <File>C:/Users/hp/Documents/Color-Switch/Content/obstacleSquare.png</File>
+    <File>C:/Users/hp/Documents/Color-Switch/Content/play.png</File>
+    <File>C:/Users/hp/Documents/Color-Switch/Content/scores.png</File>
+    <File>C:/Users/hp/Documents/Color-Switch/Content/bgColor.jpg</File>
+    <File>C:/Users/hp/Documents/Color-Switch/Content/choice.spritefont</File>
+    <File>C:/Users/hp/Documents/Color-Switch/Content/CurrentScreen.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>
